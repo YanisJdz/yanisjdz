@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yanis !</h1>
 <h3 align="center">Web 2 & Web 3 junior developper.</h3>
 
-- 🔭 I’m currently working with [UNBLOCKED](https://unblocked-group.com/)
+- 🔭 I’m currently working with [Smart-Chain](https://unblocked-group.com/) as a SRE Engineer / DevSecOps
 
 - 👨‍💻 All of my projects are available at [https://yanisjdz.dev/](https://yanisjdz.dev/)
 
