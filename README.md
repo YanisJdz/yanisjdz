@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanis !</h1>
-<h3 align="center">Web 2 & Web 3 junior developper.</h3>
+<h3 align="center">Junior DevOps with web developper skills.</h3>
 
 - 🔭 I’m currently working as a SRE Engineer / DevSecOps
 
