@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yanis !</h1>
 <h3 align="center">Junior DevOps with web developper skills.</h3>
 
-- 🔭 I’m currently working as a SRE Engineer / DevSecOps
-
-- 👨‍💻 All of my projects are available at [https://yanisjdz.dev/](https://yanisjdz.dev/)
+- 🔭 I’m currently looking for a Job as a Web Developper or as SRE Engineer / DevSecOps
 
 - 💬 Ask me about **JavaScript (Next, React...)**
 
